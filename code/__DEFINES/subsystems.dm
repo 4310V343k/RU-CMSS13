@@ -118,7 +118,6 @@
 // Do not break this braket
 #define SS_INIT_DATABASE 27.9
 #define SS_INIT_ENTITYMANAGER 27.8
-#define SS_INIT_TICKER 27.7
 #define SS_INIT_PREF_LOGGING 27.6
 #define SS_INIT_PLAYTIME 27.5
 // Do not break this braket
@@ -152,9 +151,7 @@
 #define SS_INIT_ASSETS 1
 #define SS_INIT_TIMER   100
 #define SS_INIT_UNSPECIFIED 0
-/* RUCM REDEFINE
 #define SS_INIT_TICKER -21
-*/
 #define SS_INIT_VOTE   -23
 /* RUCM REDEFINE
 #define SS_INIT_DATABASE   -27
