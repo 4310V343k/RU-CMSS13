@@ -14070,7 +14070,7 @@
 "aWe" = (
 /obj/structure/bed,
 /obj/item/bedsheet/blue,
-/obj/item/toy/plush/moth,
+/obj/item/toy/plush/therapy/blue,
 /turf/open/floor/carpet,
 /area/prison/command/quarters)
 "aWf" = (
@@ -52286,7 +52286,7 @@
 /turf/open/floor/prison/red/north,
 /area/prison/cellblock/highsec/south/south)
 "tNI" = (
-/obj/structure/machinery/vending/cigarette/colony,
+/obj/structure/machinery/vending/cigarette/koorlander,
 /turf/open/floor/prison/darkredfull2/southwest,
 /area/prison/cellblock/maxsec/north)
 "tOb" = (

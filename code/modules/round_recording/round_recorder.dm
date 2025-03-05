@@ -36,7 +36,7 @@
 	round_name = GLOB.round_statistics.name
 */
 //RUCM START
-	round_name = GLOB.round_statistics.round_name
+	round_name = GLOB.round_statistics.round_name || "Hunt for the Bugs"
 //RUCM END
 
 // Record the end time of the game and export the game history
